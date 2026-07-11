@@ -5,8 +5,10 @@
  	color: #fff;
  	padding: 5px 25px;
  	margin-block: 40px;
-	margin-inline: 20px;
 }
 .main h3 {
  	margin: 20px;
+}
+.row {
+	margin-inline:10px;
 }
