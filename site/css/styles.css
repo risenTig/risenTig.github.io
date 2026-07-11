@@ -9,6 +9,8 @@
 .main h3 {
  	margin: 20px;
 }
-.row {
-	margin-inline:10px;
+@media (max-width:767px) {
+	.row {
+		margin-inline:10px;
+	}
 }
