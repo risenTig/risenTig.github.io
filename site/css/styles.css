@@ -10,11 +10,5 @@
  	margin: 20px;
 }
 .main-main {
-	width
-}
-
-@media (max-width: 767px) {
-	.main {
-		margin-inline: 20px;
-	}
+	marging-inline: 30px;
 }
