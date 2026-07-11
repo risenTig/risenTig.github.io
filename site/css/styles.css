@@ -5,10 +5,8 @@
  	color: #fff;
  	padding: 5px 25px;
  	margin-block: 40px;
+	margin-inline: 20px;
 }
 .main h3 {
  	margin: 20px;
-}
-.main-main {
-	marging-inline: 30px;
 }
